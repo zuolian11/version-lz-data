@@ -1,0 +1,2 @@
+[console_scripts]
+loongdata = loongdata.cli:main

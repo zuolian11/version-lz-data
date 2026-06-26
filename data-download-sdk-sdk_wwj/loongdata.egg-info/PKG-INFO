@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: loongdata
+Version: 0.1.3
+Requires-Python: >=3.6
+Requires-Dist: tqdm
+Requires-Dist: requests>=2.20.0
+Requires-Dist: argparse>=1.1
+Requires-Dist: httpx>=0.28.1
+Requires-Dist: rich>=14.2.0
+Requires-Dist: esdk-obs-python>=3.25.3
+Dynamic: requires-dist
+Dynamic: requires-python
